@@ -1,0 +1,1 @@
+{"uuid":"b6c1ba96-cd73-4791-91c7-5f127f7440b0","name":"TestPackage.Test_Webinar.setUp","children":["9896ecd9-2220-4f20-8283-06797543ceb0"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1675694362014,"stop":1675694368315}],"afters":[],"start":1675694362013,"stop":1675694368316}
